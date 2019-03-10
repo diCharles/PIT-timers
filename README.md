@@ -1,2 +1,2 @@
 # PIT-timers
-library for pit timers
+library for pit timers on kinetis K64
