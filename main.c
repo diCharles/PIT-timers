@@ -4,7 +4,7 @@
 		This is a starter file to implement a function able to produce an accurate delay
 		using the PIT module.
 
-	\author J. Luis Pizano Escalante, luispizano@iteso.mx
+	\author Diego Charles Suarez
 	\date	17/09/2018
  */
 
